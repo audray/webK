@@ -2236,8 +2236,39 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0;
+  margin:0; 
 }
+
+.image {
+  margin:0; 
+  background: url(https://defaultcustomheadersdata.files.wordpress.com/2016/07/design2.jpg?resize=1366,768);
+  width:100%;
+  opacity: 0.8;
+  padding-top: 0;
+  height: 100%;
+  top: 0;
+}
+
+.image2 {
+  margin:0; 
+  background: url(http://www.draccounting.in/wp-content/uploads/2015/08/contact.jpg);
+  width:100%;
+  opacity: 0.8;
+  padding-top: 0;
+  height: 100%;
+  top: 0;
+}
+
+.image3 {
+  margin:0; 
+  background: url(http://ypss.ca/wp-content/uploads/2016/04/About-Us.jpg);
+  width:100%;
+  opacity: 0.8;
+  padding-top: 0;
+  height: 100%;
+  top: 0;
+}
+
 
 /* HTML5 display definitions
    ========================================================================== */
